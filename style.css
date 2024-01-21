@@ -1,0 +1,17 @@
+table {
+    border-collapse: collapse;
+    width: 350px;
+}
+
+table td {
+    border: 1px solid black;
+    width: 90px;
+    height: 90px;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+table td:hover {
+    background-color: #ffc;
+}
